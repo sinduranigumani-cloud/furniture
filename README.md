@@ -1,0 +1,2 @@
+# furniture
+rent ease/furniture
